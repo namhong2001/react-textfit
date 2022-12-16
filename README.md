@@ -2,6 +2,12 @@
 
 - make run possible on react v18
 
+### install types
+
+```bash
+npm install @types/namhong2001__react-textfit@npm:@types/react-textfit --D
+```
+
 # react-textfit
 
 [![npm](https://img.shields.io/badge/npm-react--textfit-brightgreen.svg?style=flat-square)]()
